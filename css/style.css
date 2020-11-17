@@ -150,7 +150,7 @@ button:focus{
 }
 
 /*------------------------------------------------------------------
-    LOADER 
+    LOADER
 -------------------------------------------------------------------*/
 
 
@@ -180,11 +180,11 @@ button:focus{
 }
 
 .top-navbar .navbar-light .navbar-nav .nav-item .nav-link:hover{
-	background: #d0a772;
+	background: #ff0000;
 	color: #ffffff;
 }
 .top-navbar .navbar-light .navbar-nav .nav-item.active .nav-link{
-	background: #d0a772;
+	background: #ff0000;
 	color: #ffffff;
 	border-radius: 4px;
 }
@@ -210,7 +210,7 @@ button:focus{
 	height: 100vh;
 }
 .slides-navigation a {
-	background: #cfa671;
+	background: #ff0000;
     position: absolute;
     height: 70px;
     width: 70px;
@@ -267,12 +267,12 @@ button:focus{
     color: #fff;
     background-color: transparent;
     background-image: none;
-    border-color: #cfa671;
+    border-color: #fff;
 }
 .btn-outline-new-white:hover {
     color: #ffffff;
-    background-color: #cfa671;
-    border-color: #cfa671;
+    background-color: #ff0000;
+    border-color: #ff0000;
 }
 
 .overlay-background {
@@ -299,8 +299,8 @@ button:focus{
 	border: 2px solid #ffffff;
 }
 .slides-pagination a.current{
-	background: #cfa671;
-	border: 2px solid #cfa671;
+	background: #ff0000;
+	border: 2px solid #ff0000;
 }
 
 /*------------------------------------------------------------------
@@ -311,7 +311,7 @@ button:focus{
 	padding: 70px 0px;
 }
 .about-section-box .img-fluid{
-	box-shadow: -10px -10px 0px #d0a772;
+	box-shadow: -10px -10px 0px #ffffff;
 }
 .inner-column{}
 .inner-column h1{
@@ -320,7 +320,7 @@ button:focus{
 	color: #010101;
 }
 .inner-column h1 span{
-	color: #d0a772;
+	color: #ff0000;
 }
 .inner-column h4{
 	font-size: 16px;
@@ -330,7 +330,7 @@ button:focus{
 	font-size: 18px;
 }
 .inner-column .btn-outline-new-white{
-	color: #d0a772;
+	color: #ff0000;
 }
 .inner-column .btn-outline-new-white:hover{
 	color: #ffffff;
@@ -342,7 +342,7 @@ button:focus{
 
 
 .qt-background{
-	background: url(../images/qt-bg.jpg) no-repeat;
+	background: url(../images/shawarmas-closeup.jpg) no-repeat;
 	background-size: cover;
 	padding: 100px 0;
 	background-attachment: fixed;
@@ -360,8 +360,8 @@ button:focus{
 
 .qt-background span {
     color: #fff;
-    font-size: 20px;  
-	font-weight: 500;	
+    font-size: 20px;
+	font-weight: 500;
 }
 
 /*------------------------------------------------------------------
@@ -760,7 +760,7 @@ button:focus{
 	top: 0;
 	width: 100%;
 	z-index: 1;
-	opacity: 0.8;	
+	opacity: 0.8;
 }
 .all-page-title h1{
 	font-size: 38px;
@@ -1323,30 +1323,3 @@ blockquote {
     transition: opacity 0.2s ease-out;
 	font-size: 30px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
