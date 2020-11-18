@@ -561,7 +561,7 @@ button:focus{
 -------------------------------------------------------------------*/
 
 .contact-imfo-box{
-	background: #d0a772;
+	background: #ff0000;
 	padding: 30px 0;
 }
 
@@ -577,7 +577,7 @@ button:focus{
 	line-height: 60px;
 	text-align: center;
 	background: #fff;
-	color: #d0a772;
+	color: #ff0000;
 	font-size: 30px;
 	-webkit-border-radius: 50%;
 	-moz-border-radius: 50%;
@@ -591,7 +591,7 @@ button:focus{
 	color: #ffffff;
 	font-size: 20px;
 	padding: 0px;
-	font-weight: 500;
+	font-weight: 700;
 	line-height: 24px;
 }
 .contact-imfo-box p {
