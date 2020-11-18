@@ -912,14 +912,14 @@ button:focus{
 	margin-top: 20px;
 }
 .btn.btn-common{
-	color: #d0a772;
+	color: #ff0000 ;
 	background-color: transparent;
 	background-image: none;
-	border-color: #cfa671;
+	border-color: #ff0000 ;
 }
 .btn.btn-common:hover{
 	color: #ffffff;
-	background-color: #cfa671;
+	background-color: #ff0000 ;
 	border-color: #cfa671;
 }
 .blog-box{
