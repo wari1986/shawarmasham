@@ -1301,11 +1301,17 @@ blockquote {
 	padding: 70px 0px;
 }
 
-.map-full {
+.map-full.img{
     width: 100%;
     height: 500px;
     border-radius: 0px;
     margin: 0px auto;
+
+}
+#shammap {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 #back-to-top {
