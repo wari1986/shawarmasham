@@ -313,7 +313,9 @@ button:focus{
 .about-section-box .img-fluid{
 	box-shadow: -10px -10px 0px #ffffff;
 }
-.inner-column{}
+.inner-column{
+  padding: 90px;
+}
 .inner-column h1{
 	font-family: 'Arbutus Slab', serif;
 	font-size: 30px;
@@ -327,6 +329,7 @@ button:focus{
 	font-weight: 500;
 }
 .inner-column p{
+  padding: 20px;
 	font-size: 18px;
 }
 .inner-column .btn-outline-new-white{
@@ -643,7 +646,7 @@ button:focus{
 	margin-bottom: 10px;
 }
 .footer-area p{
-	font-size: 15px;
+	font-size: 19px;
 	color: rgba(255, 255, 255, 0.8);
 	margin: 0;
 	padding-bottom: 10px;
