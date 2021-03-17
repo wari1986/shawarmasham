@@ -345,12 +345,13 @@ button:focus{
 
 
 .qt-background{
-	background: url(../images/shawarmas-closeup.jpg) no-repeat;
+	background: url(../images/qt.jpg) no-repeat;
 	background-size: cover;
 	padding: 100px 0;
 	background-attachment: fixed;
 	background-position: center center;
 	position: relative;
+    opacity: 0.99;
 }
 .qt-background p {
     font-size: 35px;
